@@ -1,6 +1,6 @@
 # Talkeetna area Airport and Scenery Pack
 
-## PATK - Talkeetna Airport \n		2AK7 - Bald Mountain Airstrip,		AK19 - Carl's Landing Airport,		51AK - Birch Creek Landing Airport
+## PATK - Talkeetna Airport <br/> 2AK7 - Bald Mountain Airstrip <br/> AK19 - Carl's Landing Airport <br/> 51AK - Birch Creek Landing Airport
 
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
