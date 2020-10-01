@@ -1,6 +1,4 @@
-# PATK - Talkeetna Airport
-# 2AK7 - Bald Mountain Airstrip
-# AK19 - Carl's Landing Airport
+# PATK - Talkeetna Airport		2AK7 - Bald Mountain Airstrip		AK19 - Carl's Landing Airport
 
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
