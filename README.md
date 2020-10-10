@@ -15,7 +15,7 @@ Discord: julysfire#9465        MSFS2020: blackflame0729
 - AK44: Talkeetna Village Airstrip in Talkeetna, Alaska, USA
 - 0AA5: Rangeview Airstrip in Trapper Creek, Alaska, USA
 
-PATK Cords: 62°19'15.4"N 150°05'36.4"W <br/> 2AK7 Cords: 62°18'27.1"N 149°45'07.5"W <br/> AK19 Cords: 62°10'26.4"N 150°03'50.6"W <br/> 51AK Cords: 62°14'17.9"N 150°03'49.8"W <br/> 0AA5 Cords: 62°18'46.0"N 150°20'09.0"W </br>
+PATK Cords: [62°19'15.4"N 150°05'36.4"W](https://www.google.com/maps/place/62%C2%B019'15.4%22N+150%C2%B005'36.4%22W/@62.3209469,-150.0956331,521m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d62.3209444!4d-150.0934444) <br/> 2AK7 Cords: [62°18'27.1"N 149°45'07.5"W](https://www.google.com/maps/place/62%C2%B018'27.1%22N+149%C2%B045'07.5%22W/@62.3075303,-149.754272,522m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d62.3075278!4d-149.7520833) <br/> AK19 Cords: [62°10'26.4"N 150°03'50.6"W](https://www.google.com/maps/place/62%C2%B010'26.4%22N+150%C2%B003'50.6%22W/@62.1740025,-150.0662443,524m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d62.174!4d-150.0640556) <br/> 51AK Cords: [62°14'17.9"N 150°03'49.8"W](https://www.google.com/maps/place/62%C2%B014'17.9%22N+150%C2%B003'49.8%22W/@62.2383081,-150.066022,523m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d62.2383056!4d-150.0638333) <br/> 0AA5 Cords: [62°18'46.0"N 150°20'09.0"W](https://www.google.com/maps/place/62%C2%B018'46.0%22N+150%C2%B020'09.0%22W/@62.3127803,-150.338022,522m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d62.3127778!4d-150.3358333) </br>
 
 ##### Summary
 
