@@ -31,7 +31,7 @@ PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://w
 - **AK44 is an entire airstrip that is not currently in the base game**
     - A small airstrip on the Southern part of Talkeetna with the runway ending at the river.  Beautiful fly ins over the river or the town center of Talkeetna.
 	
-- Lots of fixes to the other airports including massive height fixes to the runways to make them useable (height/trees/ect)
+- Lots of fixes to the other airports including massive height fixes to the runways to make them - usable  (height/trees/ect)
 
 - Hand crafted airports and scenery of surrounding area
 - Handful of GA parking spots at each airport
