@@ -19,6 +19,8 @@ PATK Cords: [62°19'15.4"N 150°05'36.4"W](https://www.google.com/maps/place/62%
 
 ##### Summary
 
+This is a pack of airports in the Talkeetna, Alaska area.  Some of the airports were missing and have now been added, some airports were not in good condition from the auto generated area and height maps.  The surrounding water ways also suffered from this issue and were often very hilly and bumpy which made the shores look horrible as well.  This pack will address these issues while including one of the most intersting airports/airstrips I have encountered yet, 2AK7 - Bald Mountain Airstrip.  This is a small airstrip that is on top of a mountain with the runways ending in cliffs.  Have fun landing and taking off out of this airport!  This pack is perfect for some beautiful Alasakan VFR scenery.  I have worked on all these airports by hand in an effort to make realistic representations of each airports included.  All I ask is that you have fun and enjoy!
+
 PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://www.airnav.com/airport/2AK7> <br/> AK19 Airnav: <http://www.airnav.com/airport/AK19> <br/> 51AK Airnav: <https://www.airnav.com/airport/51AK> <br/> AK44 Airnav: <https://www.airnav.com/airport/AK44> </br> OAA5 Airnav: <http://www.airnav.com/airport/0AA5>
 
 ##### Features
@@ -27,13 +29,13 @@ PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://w
     - This is a small little brush strip on top of a mountain!  Try out your brush landing skills and land on top for some beautiful Alaskan views!
 
 - **AK44 is an entire airstrip that is not currently in the base game**
-    - A small airstrip on the Southern part of Talkeetna with the runway ending at the river.
+    - A small airstrip on the Southern part of Talkeetna with the runway ending at the river.  Beautiful fly ins over the river or the town center of Talkeetna.
 	
 - Lots of fixes to the other airports including massive height fixes to the runways to make them useable (height/trees/ect)
 
 - Hand crafted airports and scenery of surrounding area
 - Handful of GA parking spots at each airport
-- Absolutely tons of river, lake, and other height fixes in the area (~150-200 total miles by my last estimate, I lost count to be honest)
+- Absolutely tons of river, lake, and other height fixes in the area (~150-200 total miles by my last estimate, I lost count to be honest...)
 - Better ground textures and vegetation of the surrounding area
 - Realistic look and feel during the day and night based on satellite imagery
 - Beautiful Alaskan scenery perfect for VFR flights
@@ -119,7 +121,15 @@ See the Screenshots\Before\ folder for before shots of very hilly water, raised 
 
 ![Rangeview](Screenshots/After/Rangeview3.PNG)
 
-##### Known Issue(s)
+### Other
+
+![Other](Screenshots/After/Other.PNG)
+
+![Other](Screenshots/After/Other2.PNG)
+
+![Other](Screenshots/After/Other3.PNG)
+
+##### Note
 
 - I noticed the first time I loaded the package, the water height was still messed up from a distance but upon getting closer to it, it fixed itself.  After reloading into the Sim, it doesn't do that.  If you see bad water height upon first loading in, try flying near it or reloading.
 
@@ -128,5 +138,5 @@ See the Screenshots\Before\ folder for before shots of very hilly water, raised 
 
 - Snow sticks to the TALKEETNA lettering, need to change that.
 
-If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
-http://paypal.me/julysfire
+If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community's total assets of airports and scenery and because honestly, I found I really enjoy doing this.  I only strive to make content that others can enjoy.
+http://paypal.me/julysfire or https://www.buymeacoffee.com/julysfire
