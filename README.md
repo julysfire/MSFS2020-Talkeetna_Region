@@ -71,17 +71,21 @@ See the Screenshots\Before\ folder for before shots of very hilly water, raised 
 
 ![PATK](Screenshots/After/aaaCover.PNG)
 
-![PATK](Screenshots/After/PATK3.PNG)
+![PATK](Screenshots/After/PATK6.PNG)
 
 ![PATK](Screenshots/After/PATKDoubleRainbow.PNG)
 
 ![PATK](Screenshots/After/PATKSnow.PNG)
+
+![PATK](Screenshots/After/PATK7.PNG)
 
 ![PATK](Screenshots/After/PATK.PNG)
 
 ![PATK](Screenshots/After/PATK2.PNG)
 
 ![PATK](Screenshots/After/PATK4.PNG)
+
+![PATK](Screenshots/After/PATK9.PNG)
 
 ### Talkeetna Village Airstrip
 
