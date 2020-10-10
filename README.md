@@ -33,7 +33,7 @@ PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://w
 
 - Hand crafted airports and scenery of surrounding area
 - Handful of GA parking spots at each airport
-- Absolutely tons of river, lake, and other height fixes in the area (~100+ miles, I lost count to be honest)
+- Absolutely tons of river, lake, and other height fixes in the area (~150-200 total miles by my last estimate, I lost count to be honest)
 - Better ground textures and vegetation of the surrounding area
 - Realistic look and feel during the day and night based on satellite imagery
 - Beautiful Alaskan scenery perfect for VFR flights
@@ -55,12 +55,74 @@ For the Boxed edition:
 	C:\Users\[YOUR USERNAME]\AppData\Local\MSFSPackages\Community
 
 ## Screenshots
+See the Screenshots\Before\ folder for before shots of very hilly water, raised lakes, bad runway elevation, ect
 
+### Bald Mountain Airport
+
+![BaldMountain](Screenshots/After/Bald.PNG)
+
+![BaldMountain](Screenshots/After/Bald2.PNG)
+
+![BaldMountain](Screenshots/After/Bald3.PNG)
+
+![BaldMountain](Screenshots/After/Bald4.PNG)
+
+### Talkeetna Airport
+
+![PATK](Screenshots/After/aaaCover.PNG)
+
+![PATK](Screenshots/After/PATK3.PNG)
+
+![PATK](Screenshots/After/PATKDoubleRainbow.PNG)
+
+![PATK](Screenshots/After/PATKSnow.PNG)
+
+![PATK](Screenshots/After/PATK.PNG)
+
+![PATK](Screenshots/After/PATK2.PNG)
+
+![PATK](Screenshots/After/PATK4.PNG)
+
+### Talkeetna Village Airstrip
+
+![TalkVillage](Screenshots/After/TalkVillage.PNG)
+
+![TalkVillage](Screenshots/After/TalkVillage2.PNG)
+
+![TalkVillage](Screenshots/After/TalkVillage3.PNG)
+
+### Carl's Landing Airport
+
+![CarlsLand](Screenshots/After/CarlsLanding.PNG)
+
+![CarlsLand](Screenshots/After/CarlsLanding2.PNG)
+
+![CarlsLand](Screenshots/After/CarlsLanding3.PNG)
+
+## Birch Creek Landing Airport
+
+![BirchCreek](Screenshots/After/BirchCreek.PNG)
+
+![BirchCreek](Screenshots/After/BirchCreek2.PNG)
+
+![BirchCreek](Screenshots/After/BirchCreek3.PNG)
+
+### Rangeview Airstrip
+
+![Rangeview](Screenshots/After/Rangeview.PNG)
+
+![Rangeview](Screenshots/After/Rangeview2.PNG)
+
+![Rangeview](Screenshots/After/Rangeview3.PNG)
 
 ##### Known Issue(s)
 
 - I noticed the first time I loaded the package, the water height was still messed up from a distance but upon getting closer to it, it fixed itself.  After reloading into the Sim, it doesn't do that.  If you see bad water height upon first loading in, try flying near it or reloading.
 
+
+#### TODO
+
+- Snow sticks to the TALKEETNA lettering, need to change that.
 
 If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
 http://paypal.me/julysfire
