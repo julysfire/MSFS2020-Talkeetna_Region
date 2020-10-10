@@ -6,74 +6,69 @@
       "date": 132399197780000000
     },
     {
-      "path": "manifest.json",
-      "size": 298,
-      "date": 132467659638808071
-    },
-    {
       "path": "scenery/global/scenery/modelLib.BGL",
       "size": 143636,
-      "date": 132467797864367040
+      "date": 132468245594796466
     },
     {
       "path": "scenery/global/scenery/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132465995359653501
+      "date": 132468245526999241
     },
     {
       "path": "scenery/global/scenery/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132465995359613465
+      "date": 132468245526898857
     },
     {
       "path": "scenery/global/scenery/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132465995351717138
+      "date": 132468245518010291
     },
     {
       "path": "scenery/global/scenery/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132465995351607037
+      "date": 132468245517930217
     },
     {
       "path": "scenery/global/scenery/TEXTURE/LCOLOR.PNG.DDS",
       "size": 89478640,
-      "date": 132467659632912700
+      "date": 132468245594095824
     },
     {
       "path": "scenery/global/scenery/TEXTURE/LCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132467659632031900
+      "date": 132468245593174993
     },
     {
       "path": "scenery/global/scenery/TEXTURE/REDTRIANGLEBARRIER.PNG.DDS",
       "size": 349680,
-      "date": 132466369342774688
+      "date": 132468245531633105
     },
     {
       "path": "scenery/global/scenery/TEXTURE/REDTRIANGLEBARRIER.PNG.DDS.json",
       "size": 119,
-      "date": 132466369342724643
+      "date": 132468245531573046
     },
     {
       "path": "scenery/global/scenery/TEXTURE/WOOD016_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132466369342284242
+      "date": 132468245531122636
     },
     {
       "path": "scenery/global/scenery/TEXTURE/WOOD016_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132466369342184152
+      "date": 132468245531042568
     },
     {
       "path": "scenery/world/scenery/POLIES.BGL",
-      "size": 73694,
-      "date": 132467797869471680
+      "size": 75902,
+      "date": 132468245599715974
     },
     {
       "path": "scenery/world/scenery/scene.bgl",
-      "size": 123547,
-      "date": 132467797865568135
+      "size": 135081,
+      "date": 132468245596277811
     }
   ]
 }
