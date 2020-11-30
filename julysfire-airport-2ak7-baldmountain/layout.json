@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/julysfire-airport-2ak7-baldmountain/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
+    },
+    {
+      "path": "scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
+      "size": 4454,
+      "date": 132512418102665486
+    },
+    {
+      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132512418102425272
+    },
+    {
+      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132512418102375226
+    },
+    {
+      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132512418094161185
+    },
+    {
+      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132512418094091120
+    },
+    {
+      "path": "scenery/world/sceneryBaldMountain/POLIESTALKEETNAAREA.BGL",
+      "size": 84174,
+      "date": 132512418088348060
+    },
+    {
+      "path": "scenery/world/sceneryBaldMountain/scene.bgl",
+      "size": 27547,
+      "date": 132512418083647834
+    }
+  ]
+}

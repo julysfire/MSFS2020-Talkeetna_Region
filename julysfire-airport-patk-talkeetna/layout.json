@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/julysfire-airport-patk-talkeetna/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/talkeetnaAreamodelLib.BGL",
+      "size": 143276,
+      "date": 132512418053898848
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132512417986040278
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132512417985990237
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132512417977952925
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132512417977882862
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/LCOLOR.PNG.DDS",
+      "size": 89478640,
+      "date": 132512418053418417
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/LCOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132512418052478236
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/REDTRIANGLEBARRIER.PNG.DDS",
+      "size": 349680,
+      "date": 132512417990204056
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/REDTRIANGLEBARRIER.PNG.DDS.json",
+      "size": 119,
+      "date": 132512417990184040
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/WOOD016_2K_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132512417989763654
+    },
+    {
+      "path": "Scenery/global/talkeetnaAreaObjects/TEXTURE/WOOD016_2K_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132512417989713608
+    },
+    {
+      "path": "Scenery/world/scenerytalkeetnaArea/POLIESTALKEETNAAREA.BGL",
+      "size": 84810,
+      "date": 132512418059549155
+    },
+    {
+      "path": "Scenery/world/scenerytalkeetnaArea/scene.bgl",
+      "size": 51352,
+      "date": 132512418054869738
+    }
+  ]
+}
