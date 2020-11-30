@@ -81,7 +81,7 @@ See the Screenshots\Before\ folder for before shots of very hilly water, raised 
 
 ![BaldMountain](Screenshots/After/Bald3.PNG)
 
-![BaldMountain](Screenshots/After/Bald4.PNG)
+![BaldMountain](Screenshots/After/Bald5.PNG)
 
 ### Talkeetna Airport
 
@@ -103,6 +103,8 @@ See the Screenshots\Before\ folder for before shots of very hilly water, raised 
 
 ![PATK](Screenshots/After/PATK9.PNG)
 
+![PATK](Screenshots/After/PATK10.PNG)
+
 ### Talkeetna Village Airstrip
 
 ![TalkVillage](Screenshots/After/TalkVillage.PNG)
@@ -110,6 +112,8 @@ See the Screenshots\Before\ folder for before shots of very hilly water, raised 
 ![TalkVillage](Screenshots/After/TalkVillage2.PNG)
 
 ![TalkVillage](Screenshots/After/TalkVillage3.PNG)
+
+![TalkVillage](Screenshots/After/TalkVillage4.PNG)
 
 ### Carl's Landing Airport
 
