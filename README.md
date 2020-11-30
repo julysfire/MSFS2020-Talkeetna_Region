@@ -33,6 +33,8 @@ PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://w
 
 - Carl's Landing:  Added additional scenery items, some texture fixes.
 
+- Bald Mountain: Smoothed out the tiling of the ground texture.
+
 - Talkeetna Airport: Added additional scenery items.  Cut down some trees that were on the train tracks near the airport.
 
 ##### Features
