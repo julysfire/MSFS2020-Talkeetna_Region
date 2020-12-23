@@ -2,43 +2,43 @@
   "content": [
     {
       "path": "ContentInfo/julysfire-airport-2ak7-baldmountain/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132399197780000000
+      "size": 36497,
+      "date": 132531654484031120
     },
     {
       "path": "scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
       "size": 4454,
-      "date": 132512418102665486
+      "date": 132531675954455764
     },
     {
       "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132512418102425272
+      "date": 132531675954205539
     },
     {
       "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132512418102375226
+      "date": 132531675954155495
     },
     {
       "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132512418094161185
+      "date": 132531675944606820
     },
     {
       "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132512418094091120
+      "date": 132531675944546766
     },
     {
       "path": "scenery/world/sceneryBaldMountain/POLIESTALKEETNAAREA.BGL",
       "size": 84174,
-      "date": 132512418088348060
+      "date": 132531675937496558
     },
     {
       "path": "scenery/world/sceneryBaldMountain/scene.bgl",
       "size": 27547,
-      "date": 132512418083647834
+      "date": 132531675932802292
     }
   ]
 }

@@ -2,18 +2,18 @@
   "content": [
     {
       "path": "ContentInfo/julysfire-airport-51ak-birchcreek/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132399197780000000
+      "size": 38598,
+      "date": 132531655605702764
     },
     {
       "path": "scenery/world/birchcreekscene/POLIESTALKEETNAAREA.BGL",
       "size": 84150,
-      "date": 132512418076555967
+      "date": 132531675926136232
     },
     {
       "path": "scenery/world/birchcreekscene/scene.bgl",
       "size": 15308,
-      "date": 132512418072031876
+      "date": 132531675921972462
     }
   ]
 }

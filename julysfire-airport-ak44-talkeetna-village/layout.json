@@ -2,18 +2,18 @@
   "content": [
     {
       "path": "ContentInfo/julysfire-airport-ak44-talkeetna-village/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132399197780000000
+      "size": 39837,
+      "date": 132531668486624549
     },
     {
       "path": "scenery/world/talkeetnavillagescenery/POLIESTALKEETNAAREA.BGL",
       "size": 84150,
-      "date": 132512420396072379
+      "date": 132531675931551165
     },
     {
       "path": "scenery/world/talkeetnavillagescenery/scene.bgl",
       "size": 38808,
-      "date": 132512420391630741
+      "date": 132531675927357342
     }
   ]
 }
