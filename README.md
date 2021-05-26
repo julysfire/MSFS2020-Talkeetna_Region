@@ -23,6 +23,11 @@ This is a pack of airports in the Talkeetna, Alaska area.  Some of the airports 
 
 PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://www.airnav.com/airport/2AK7> <br/> AK19 Airnav: <http://www.airnav.com/airport/AK19> <br/> 51AK Airnav: <https://www.airnav.com/airport/51AK> <br/> AK44 Airnav: <https://www.airnav.com/airport/AK44> </br> OAA5 Airnav: <http://www.airnav.com/airport/0AA5>
 
+##### Update V1.2.3
+
+This update focused on a number of compatability updates that should allow the use of any other developer's airport along side airports within this pack.  Previously, there were some unknown dependacies that caused (mainly height) issues when using other developer's airports and airports in this pack.  That should no longer be the case.  If you do find some of these issues, please reach out to me and I can make the updates accordingly.
+
+
 ##### Update V1.2
 
 - Broke out all airports into individual packages.  This will allow you to pick and choose individual airports from the pack instead of being stuck with all or nothing.  Each package still contains the terrain, vegetation, and height fixes.  Simply drag and drop the airports from the extracted zip folder to your community folder.  You can drag over as many or as few as you like.
