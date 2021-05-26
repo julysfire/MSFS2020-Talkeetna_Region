@@ -25,7 +25,11 @@ PATK Airnav: <https://www.airnav.com/airport/PATK> <br/> 2AK7 Airnav: <https://w
 
 ##### Update V1.2.3
 
-This update focused on a number of compatability updates that should allow the use of any other developer's airport along side airports within this pack.  Previously, there were some unknown dependacies that caused (mainly height) issues when using other developer's airports and airports in this pack.  That should no longer be the case.  If you do find some of these issues, please reach out to me and I can make the updates accordingly.
+Update only required if you plan to use any of the airports that are contained in this pack and are made by other developers.
+
+This update focused on a number of compatibility updates that should allow the use of any other developer's airport along side airports within this pack. Previously, there were some unknown dependencies that caused (mainly height) issues when using other developer's airports and airports in this pack. That should no longer be the case. If you do find some of these issues, please reach out to me and I can make the updates accordingly.
+
+Shoutout to Brian Smith for bringing this to my attention!
 
 
 ##### Update V1.2
