@@ -6,39 +6,39 @@
       "date": 132531654484031120
     },
     {
-      "path": "scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
-      "size": 4454,
-      "date": 132665372026482476
+      "path": "Scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
+      "size": 4506,
+      "date": 132750936085188194
     },
     {
-      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132665372026236323
+      "date": 132750936085018039
     },
     {
-      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132665372026179900
+      "date": 132750936084967993
     },
     {
-      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132665372018324959
+      "date": 132750936075612349
     },
     {
-      "path": "scenery/global/baldmountainobjects/TEXTURE/DIRT_02_2K_NORMAL.PNG.DDS.json",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132665372018284923
+      "date": 132750936075572314
     },
     {
       "path": "scenery/world/sceneryBaldMountain/poliestalkeetnaarea.bgl",
       "size": 75369,
-      "date": 132665372013045338
+      "date": 132750936068885916
     },
     {
       "path": "scenery/world/sceneryBaldMountain/scene.bgl",
       "size": 27547,
-      "date": 132665372009599773
+      "date": 132750936068355432
     }
   ]
 }
