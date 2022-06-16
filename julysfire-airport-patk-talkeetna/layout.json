@@ -7,68 +7,63 @@
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/talkeetnaAreamodelLib.BGL",
-      "size": 143424,
-      "date": 132791347142518084
+      "size": 143524,
+      "date": 132998578951556252
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132791347076939298
+      "date": 132998578888320804
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132791347076899258
+      "date": 132998578888285712
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132791347068089025
+      "date": 132998578880588702
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132791347068048973
+      "date": 132998578880528653
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/LCOLOR.PNG.DDS",
       "size": 89478640,
-      "date": 132791347141857482
+      "date": 132998578951402081
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/LCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132791347140916627
+      "date": 132998578950547823
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/REDTRIANGLEBARRIER.PNG.DDS",
       "size": 349680,
-      "date": 132791347081299649
+      "date": 132998578891994172
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/REDTRIANGLEBARRIER.PNG.DDS.json",
       "size": 119,
-      "date": 132791347081289637
+      "date": 132998578891984161
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/WOOD016_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132791347080829219
+      "date": 132998578891643852
     },
     {
       "path": "Scenery/global/talkeetnaAreaObjects/texture/WOOD016_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132791347080779176
+      "date": 132998578891603884
     },
     {
-      "path": "scenery/world/scenerytalkeetnaArea/poliestalkeetnaarea.bgl",
-      "size": 65229,
-      "date": 132791347143508977
-    },
-    {
-      "path": "scenery/world/scenerytalkeetnaArea/scene.bgl",
-      "size": 51628,
-      "date": 132791347143188691
+      "path": "Scenery/world/scenerytalkeetnaArea/scene.bgl",
+      "size": 92887,
+      "date": 132998578953157722
     }
   ]
 }
