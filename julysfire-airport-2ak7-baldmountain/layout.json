@@ -6,34 +6,34 @@
       "date": 132531654484031120
     },
     {
-      "path": "scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
+      "path": "Scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
       "size": 4506,
-      "date": 133003088468483022
+      "date": 133003115261127990
     },
     {
-      "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 133003088468262820
+      "date": 133003115260927646
     },
     {
-      "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 133003088468222784
+      "date": 133003115260887607
     },
     {
-      "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 133003088459347391
+      "date": 133003115253294150
     },
     {
-      "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
+      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 133003088459307355
+      "date": 133003115253224083
     },
     {
       "path": "scenery/world/sceneryBaldMountain/scene.bgl",
-      "size": 62967,
-      "date": 133003088453168271
+      "size": 62494,
+      "date": 133003115248329630
     }
   ]
 }
