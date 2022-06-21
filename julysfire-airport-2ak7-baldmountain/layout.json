@@ -8,32 +8,32 @@
     {
       "path": "scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
       "size": 4506,
-      "date": 132998576148866454
+      "date": 133003088468483022
     },
     {
       "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132998576148746346
+      "date": 133003088468262820
     },
     {
       "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132998576148726323
+      "date": 133003088468222784
     },
     {
       "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
       "size": 5592560,
-      "date": 132998576141129423
+      "date": 133003088459347391
     },
     {
       "path": "scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132998576141079257
+      "date": 133003088459307355
     },
     {
       "path": "scenery/world/sceneryBaldMountain/scene.bgl",
-      "size": 62992,
-      "date": 132998576136124746
+      "size": 62967,
+      "date": 133003088453168271
     }
   ]
 }
