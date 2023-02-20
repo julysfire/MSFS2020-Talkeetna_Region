@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-airport-patk-talkeetna/ContentHistory.json",
+      "size": 156,
+      "date": 133213337860964527
+    },
+    {
       "path": "ContentInfo/julysfire-airport-patk-talkeetna/Thumbnail.jpg",
       "size": 40418,
       "date": 132531670211207945
@@ -8,62 +13,62 @@
     {
       "path": "Scenery/global/talkeetnaAreaObjects/talkeetnaAreamodelLib.BGL",
       "size": 143524,
-      "date": 133003115239209240
+      "date": 133213337859363227
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/Dirt_02_2K_Base_Color.png.DDS",
       "size": 2796344,
-      "date": 133003115176592965
+      "date": 132459870418470920
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/Dirt_02_2K_Base_Color.png.DDS.json",
       "size": 102,
-      "date": 133003115176553422
+      "date": 132459870418470920
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/Dirt_02_2K_Normal.png.DDS",
       "size": 5592560,
-      "date": 133003115169063123
+      "date": 132459870418260724
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/Dirt_02_2K_Normal.png.DDS.json",
       "size": 160,
-      "date": 133003115169003069
+      "date": 132459870418260724
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/LCOLOR.PNG.DDS",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/LColor.png.DDS",
       "size": 89478640,
-      "date": 133003115238999040
+      "date": 132467657818862536
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/LCOLOR.PNG.DDS.json",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/LColor.png.DDS.json",
       "size": 119,
-      "date": 133003115238232383
+      "date": 132467657818862536
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/REDTRIANGLEBARRIER.PNG.DDS",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/redtrianglebarrier.png.DDS",
       "size": 349680,
-      "date": 133003115180251800
+      "date": 132466368474633459
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/REDTRIANGLEBARRIER.PNG.DDS.json",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/redtrianglebarrier.png.DDS.json",
       "size": 119,
-      "date": 133003115180241785
+      "date": 132466368474633459
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/WOOD016_2K_NORMAL.PNG.DDS",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/Wood016_2K_Normal.png.DDS",
       "size": 5592560,
-      "date": 133003115179901473
+      "date": 132466368474583413
     },
     {
-      "path": "Scenery/global/talkeetnaAreaObjects/texture/WOOD016_2K_NORMAL.PNG.DDS.json",
+      "path": "Scenery/global/talkeetnaAreaObjects/texture/Wood016_2K_Normal.png.DDS.json",
       "size": 160,
-      "date": 133003115179861441
+      "date": 132466368474583413
     },
     {
       "path": "scenery/world/scenerytalkeetnaArea/scene.bgl",
       "size": 92439,
-      "date": 133003115240785627
+      "date": 133213337860884448
     }
   ]
 }

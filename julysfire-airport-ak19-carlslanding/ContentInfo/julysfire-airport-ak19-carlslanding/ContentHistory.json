@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-ak19-carlslanding",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "AK19",
+      "revision": 1
+    }
+  ]
+}

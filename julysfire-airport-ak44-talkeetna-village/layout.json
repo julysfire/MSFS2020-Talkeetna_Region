@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-airport-ak44-talkeetna-village/ContentHistory.json",
+      "size": 164,
+      "date": 133213337864991356
+    },
+    {
       "path": "ContentInfo/julysfire-airport-ak44-talkeetna-village/Thumbnail.jpg",
       "size": 39837,
       "date": 132531668486624549
@@ -8,7 +13,7 @@
     {
       "path": "scenery/world/talkeetnavillagescenery/scene.bgl",
       "size": 73979,
-      "date": 133003115246500739
+      "date": 133213337864911284
     }
   ]
 }

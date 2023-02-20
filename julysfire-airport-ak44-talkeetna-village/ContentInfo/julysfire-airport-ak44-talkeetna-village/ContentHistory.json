@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-ak44-talkeetna-village",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "AK44",
+      "revision": 1
+    }
+  ]
+}

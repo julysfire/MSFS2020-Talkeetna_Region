@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-airport-51ak-birchcreek/ContentHistory.json",
+      "size": 157,
+      "date": 133213337863546413
+    },
+    {
       "path": "ContentInfo/julysfire-airport-51ak-birchcreek/Thumbnail.jpg",
       "size": 38598,
       "date": 132531655605702764
@@ -8,7 +13,7 @@
     {
       "path": "scenery/world/birchcreekscene/scene.bgl",
       "size": 50409,
-      "date": 133003115244949333
+      "date": 133213337863476347
     }
   ]
 }

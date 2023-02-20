@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-0aa5-rangeview",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "0AA5",
+      "revision": 1
+    }
+  ]
+}

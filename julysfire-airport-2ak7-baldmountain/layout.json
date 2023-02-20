@@ -1,39 +1,44 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-airport-2ak7-baldmountain/ContentHistory.json",
+      "size": 159,
+      "date": 133213337879222480
+    },
+    {
       "path": "ContentInfo/julysfire-airport-2ak7-baldmountain/Thumbnail.jpg",
       "size": 36497,
       "date": 132531654484031120
     },
     {
       "path": "Scenery/global/baldmountainobjects/baldMountmodelLib.BGL",
-      "size": 4506,
-      "date": 133003115261127990
+      "size": 4538,
+      "date": 133213337879152411
     },
     {
-      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS",
+      "path": "Scenery/global/baldmountainobjects/texture/Dirt_02_2K_Base_Color.png.DDS",
       "size": 2796344,
-      "date": 133003115260927646
+      "date": 132459870418470920
     },
     {
-      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_BASE_COLOR.PNG.DDS.json",
+      "path": "Scenery/global/baldmountainobjects/texture/Dirt_02_2K_Base_Color.png.DDS.json",
       "size": 102,
-      "date": 133003115260887607
+      "date": 132459870418470920
     },
     {
-      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS",
+      "path": "Scenery/global/baldmountainobjects/texture/Dirt_02_2K_Normal.png.DDS",
       "size": 5592560,
-      "date": 133003115253294150
+      "date": 132459870418260724
     },
     {
-      "path": "Scenery/global/baldmountainobjects/texture/DIRT_02_2K_NORMAL.PNG.DDS.json",
+      "path": "Scenery/global/baldmountainobjects/texture/Dirt_02_2K_Normal.png.DDS.json",
       "size": 160,
-      "date": 133003115253224083
+      "date": 132459870418260724
     },
     {
       "path": "scenery/world/sceneryBaldMountain/scene.bgl",
       "size": 62494,
-      "date": 133003115248329630
+      "date": 133213337866263058
     }
   ]
 }

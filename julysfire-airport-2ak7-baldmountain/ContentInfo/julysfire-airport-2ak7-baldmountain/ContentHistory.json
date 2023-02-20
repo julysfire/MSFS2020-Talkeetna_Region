@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-2ak7-baldmountain",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "2AK7",
+      "revision": 1
+    }
+  ]
+}

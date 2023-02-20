@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-51ak-birchcreek",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "51AK",
+      "revision": 1
+    }
+  ]
+}
